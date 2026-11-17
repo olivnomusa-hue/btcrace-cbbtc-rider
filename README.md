@@ -1,3 +1,5 @@
+[![make.fun bounty](https://make.fun/badge/btc-race-24h-20261117-0603/olivnomusa-hue/btcrace-cbbtc-rider/reward.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+
 # btc-race bot — cbBTC long rider
 
 Strategy for make.fun `btc-race-24h-20261117-0603` (cbBTC, Orca Whirlpool, Solana, paper money).
